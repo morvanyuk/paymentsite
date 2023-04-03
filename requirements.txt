@@ -1,0 +1,5 @@
+django==4.1.7
+django-jazzmin==2.6.0
+
+# pip install -r requirements.txt
+# python manage.py runserver
