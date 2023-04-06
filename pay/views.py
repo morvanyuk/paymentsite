@@ -4,7 +4,6 @@ from rest_framework.response import Response
 from django.views.generic import TemplateView
 from pay.models import Paidusers, ContactData
 from pay.serializators import ContactSerialization, PaidusersSerialization
-from pay.forms import PaidingForm
 
 from time import sleep
 
